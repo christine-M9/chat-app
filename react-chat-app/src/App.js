@@ -3,6 +3,8 @@ import React from 'react';
 import MessageInput from './MessageInput';
 import MessageDisplay from './MessageDisplay';
 import { ChatProvider } from './ChatContext';
+import './App.css';
+
 
 const App = () => {
   return (
